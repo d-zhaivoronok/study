@@ -1,5 +1,4 @@
 // Підключення стандартних бібліотек
-
 #include <stdio.h>
 #include <windows.h>
 
